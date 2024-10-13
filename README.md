@@ -1,6 +1,6 @@
 ## Currency Converter App Developed with ❤️ by Syed Tanzeel Adnan
 
-This project is a simple **Currency Converter App** built with **React**. It allows users to convert between various currencies by selecting the "from" and "to" currencies and entering the amount. The app fetches real-time exchange rates using an external API.
+#This project is a simple **Currency Converter App** built with **React**. It allows users to convert between various currencies by selecting the "from" and "to" currencies and entering the amount. The app fetches real-time exchange rates using an external API.
 
 
 
