@@ -3,7 +3,7 @@
 
 This project is a simple **Currency Converter App** built with **React**. It allows users to convert between various currencies by selecting the "from" and "to" currencies and entering the amount. The app fetches real-time exchange rates using an external API.
 
-<hr style="border: none; border-top: 0.2px solid #ccc;" />
+<hr style="border: none; border-bottom: 0.2px solid #ccc;" />
 
 
 
@@ -45,23 +45,22 @@ Before you begin, ensure you have the following tools installed:
    ```bash
    cd currency-converter-app
 3. **Install the dependencies:**
-    ## If you're using npm:
      ```bash
+     If you're using npm:
      npm install
-     ```
-     ## If you're using yarn:
+     
+     If you're using yarn:
       ```bash
       yarn install
-      ```
+      
 4. **Running the App:**
-   ## 1.Start development server:
-       ## If you're using npm:
+   ** 1.Start development server:**
        ```bash
-       npm start ```
-       ## If you're using yarn:
-       ```bash
-       npm yarn ```
-   ## 2. Open your browser and go to http://localhost:3000. You should see the Currency Converter app running.
+        If you're using npm:
+          npm start 
+        If you're using yarn:
+          npm yarn ```
+   ** 2. Open your browser and go to http://localhost:3000. You should see the Currency Converter app running.**
 
 ## API Usage:
 The app uses the [Currency API by Fawaz Ahmed](https://github.com/fawazahmed0/currency-api) to fetch live exchange rates.
