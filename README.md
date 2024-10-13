@@ -45,29 +45,30 @@ Before you begin, ensure you have the following tools installed:
    ```bash
    cd currency-converter-app
 3. **Install the dependencies:**
-    #If you're using npm:
+    ##If you're using npm:
      ```bash
      npm install
      ```
-     #If you're using yarn:
+     ##If you're using yarn:
       ```bash
       yarn install
       ```
-4. **Running the App*:*
-   #1.Start development server:
-       #If you're using npm:
+4. **Running the App:**
+   ##1.Start development server:
+       ##If you're using npm:
        ```bash
        npm start ```
-       #If you're using yarn:
+       ##If you're using yarn:
        ```bash
        npm yarn ```
-   #2. Open your browser and go to http://localhost:3000. You should see the Currency Converter app running.
+   ##2. Open your browser and go to http://localhost:3000. You should see the Currency Converter app running.
 
 ## API Usage:
 The app uses the [Currency API by Fawaz Ahmed](https://github.com/fawazahmed0/currency-api) to fetch live exchange rates.
 
 The API is accessed in the custom hook useCurrencyInfo.js, which retrieves currency conversion rates based on the selected "from" currency.
 
-
-
-Developed with ❤️ by Syed Tanzeel Adnan
+<br>
+<br>
+<hr style="border: none; border-top: 0.2px solid #ccc;" />
+##Developed with ❤️ by Syed Tanzeel Adnan
