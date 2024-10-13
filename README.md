@@ -56,11 +56,12 @@ Before you begin, ensure you have the following tools installed:
 4. **Running the App:**
    <br>
    **1.Start development server:**
-        <br>
-        If you're using npm: <br>
+   ```bash
+        If you're using npm:
             npm start 
-        If you're using yarn: <br>
-           npm yarn  
+        If you're using yarn: 
+           npm yarn
+   ```
    **2. Open your browser and go to http://localhost:3000. You should see the Currency Converter app running.**
 
 ## API Usage:
